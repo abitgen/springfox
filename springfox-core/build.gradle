@@ -15,6 +15,7 @@ dependencies {
   compile libs.spring
   
   provided libs.springProvided
+  provided libs.springProvidedWithMvc
   provided libs.clientProvided
 
   testCompile libs.test
